@@ -5,5 +5,5 @@
 package ro.jtonic.handson.kotlin
 
 fun main(args: Array<String>) {
-    print("Hello Kotlin world!!!")
+    print("Hello Kotlin world!")
 }
